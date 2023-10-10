@@ -8,8 +8,10 @@ Este projeto foi desenvolvido durante as aulas do bootcamp "Santander Bootcamp 2
 
 ## Dashboard
 
-##### Pagina 01
+### Pagina 01
 
 ![Relatório 01](examples/dio-dashboard-financeiro-01_page-0001.jpg)
+
+### Pagina 02
 
 ![Relatório 02](examples/dio-dashboard-financeiro-01_page-0002.jpg)
